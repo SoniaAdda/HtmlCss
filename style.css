@@ -1,13 +1,4 @@
-h1{ 
-    text-align: center ;
-
-}
-p{
-    color: purple;
-    /* pour la taille */
-    font-size: 22px; 
-    /* pour la police */
-    font-family: Arial, Helvetica, sans-serif;
-    /* c'est pour rendre le texte en gras */
-    font-weight: bold;
+p span{ 
+    color: #ea4720;
+    background-color: rgba(200, 100, 7,0.2);
 }
